@@ -53,7 +53,7 @@ Welcome to the comprehensive (and slightly silly) directory of open-source LIMS!
 - 🤪 Not just for clinics, despite what its name tells you - more flexible than your yoga instructor
 
 ## 10. MOLIS
-- 🔬 [GitHub Repo](https://github.com/C4G/MOLIS)
+- 🔬 [GitHub Repo](https://github.com/C4G/BLIS_archive)
 - 🌐 [Website](https://www.ghdonline.org/uploads/MOLIS__concept_paper.pdf)
 - 🤪 Microbes' favorite LIMS - makes managing microbiology almost as fun as growing a sourdough starter
 
