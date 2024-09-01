@@ -69,3 +69,4 @@ Welcome to the comprehensive (and slightly silly) directory of open-source LIMS!
 ---
 
 Remember, in the world of open-source LIMS, the code is free, but the lab coats are BYO! May your samples always be organized and your data never corrupted. Happy lab-managing! 🧪🔬🧫
+contact me if you know any other open source lab systems 
