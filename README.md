@@ -43,7 +43,7 @@ Welcome to the comprehensive (and slightly silly) directory of open-source LIMS!
 - 🤪 Open sesame? Nah, Open Specimen! Keeps your specimens more organized than your sock drawer
 
 ## 8. LabKey
-- 🔬 [GitHub Repo](https://github.com/LabKey/labkey-server-modules)
+- 🔬 [GitHub Repo](https://github.com/LabKey/server)
 - 🌐 [Website](https://www.labkey.com/)
 - 🤪 Unlocks the door to data management, but you still need a real key for the lab
 
